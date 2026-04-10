@@ -1,0 +1,25 @@
+* {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;       
+}
+
+header {
+          background-image: url("./clay-banks-vYUkbsJ-Aq4-unsplash.jpg");
+          background-repeat: no-repeat;
+          background-size: cover;
+          height: 100vh;
+}
+
+
+nav{
+          background-color: azure;
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          padding: 20px 0px;
+}
+.link a {
+          padding-right: 28px;
+          text-decoration: none;
+}
